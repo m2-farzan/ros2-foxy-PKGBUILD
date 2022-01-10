@@ -1,5 +1,11 @@
 # ROS 2 (Foxy) PKGBUILD
 
+[![AUR - ros2-foxy](https://img.shields.io/static/v1?label=AUR&message=ros2-foxy&color=1793D1&logo=archlinux)](https://aur.archlinux.org/packages/ros2-foxy/)
+[![Actively Maintained - No](https://img.shields.io/static/v1?label=Actively+Maintained&message=No&color=red)](https://)
+
+> :warning: **Note**: This package has problems. I strongly recommend using
+> [galactic](https://github.com/m2-farzan/ros2-galactic-PKGBUILD) or [rolling](https://github.com/m2-farzan/ros2-rolling-PKGBUILD) versions.
+
 This package aims to provide an easy way to install ROS 2 on Archlinux.
 
 ## Contribution Notes
